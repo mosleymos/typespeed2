@@ -1,3 +1,5 @@
 #!/usr/bin/env ruby
 
+require 'typespeed2'
+
 a= Typespeed2::Game.new
